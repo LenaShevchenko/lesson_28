@@ -3,13 +3,12 @@ import org.junit.Test;
 import org.junit.Before;
 import org.junit.After;
 
-import static java.lang.Thread.*;
+
 import static org.junit.Assert.*;
 import static org.hamcrest.CoreMatchers.is;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.Dimension;
 import org.openqa.selenium.JavascriptExecutor;
 import java.util.*;
 public class testDZ {
